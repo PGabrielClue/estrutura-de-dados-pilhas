@@ -13,7 +13,7 @@ Programa que utiliza uma pilha para inverter as letras de cada palavra de uma fr
 **Arquivos:**
 
 * &#x20;\[Código em C](q3.c)
-* &#x20;\[Vídeo explicativo](questao-2.3/video\_questao\_2\_3.mp4)
+* &#x20;\[Vídeo explicativo](questao-2.3/Apresentação 2.3 (1).mp4)
 
 ## Questão 2.5 — Expressões balanceadas
 
@@ -22,7 +22,7 @@ Programa que utiliza uma pilha para verificar se uma expressão contendo parênt
 **Arquivos:**
 
 * &#x20;\[Código em C](q5.c)
-* &#x20;\[Vídeo explicativo](questao-2.5/video\_questao\_2\_5.mp4)
+* &#x20;\[Vídeo explicativo](questao-2.5/Apresentação 2.5 (1).mp4)
 
 ## Conteúdo dos vídeos
 
